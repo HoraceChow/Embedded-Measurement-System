@@ -6,7 +6,7 @@ import math
 
 
 data_set = pandas.read_excel('dataset.xlsx') #dataset
-f = open("demofile2dx4.xyz","w") 
+f = open("data.xyz","w") 
 
 # Changing to xyz coordinates with the raw data
 for i in range(1,21):  
